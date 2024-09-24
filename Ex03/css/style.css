@@ -1,0 +1,74 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{
+    background-color: #0d1b2a;
+}
+header
+{
+    background-color: #778da9;
+    height: 100px;
+}
+.airbnb
+{
+    color: white;
+    position: relative;
+    top: 25%;
+    margin-left: 5%;
+}
+form
+{
+    color: white;
+    width: 30%;
+    height: 25%;
+    margin-left: 35%;
+    margin-top: 10%;
+    border: 2px solid #e0e1dd;
+    border-radius: 5px;
+    background-color: #e0e1dd;
+}
+legend
+{
+    text-align: center;
+    background-color: #415a77;
+    height: 20%;
+}
+h2
+{
+    position: relative;
+    top: 15%;
+}
+input
+{
+    position: relative;
+    top: 25%;
+    width: 80%;
+    height: 35px;
+    border: 2px solid #778da9;
+}
+button
+{
+    position: relative;
+    top: 25%;
+    height: 35px;
+    background-color: #e0e1dd;
+    border: 2px solid #778da9;
+    width: 15%;
+}
+button:hover
+{
+    cursor: pointer;
+    background-color: #0d1b2a;
+    color: #e0e1dd;
+}
+span
+{
+    color: #e0e1dd;
+    position: relative;
+    left: 45%;
+    top: 3%;
+    font-size: 20px;
+}

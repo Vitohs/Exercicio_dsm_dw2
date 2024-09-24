@@ -1,0 +1,80 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{
+    background-color: #faedcd;
+}
+
+form
+{
+    background-color: black;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+legend
+{
+    text-align: center;
+    background-color: #d4a373;
+    height: 15%;
+}
+h1
+{
+    color: white;
+    position: relative;
+    top: 20px;
+}
+input
+{
+    position: relative;
+    top: 30%;
+    width: 85%;
+    left: 5%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;  
+}
+button
+{
+    position: relative;
+    top: 60%;
+    left: 15%;
+    float: left;
+    gap: 40px;
+    width: 35%;
+    height: 40px;
+    background-color: white;
+}
+button:hover
+{
+    cursor: pointer;
+    background-color: #d4a373;
+}
+h2
+{
+    text-align: center;
+    margin-top: 20%;
+}
+a
+{
+    width: 80px;
+    font-size: 20px;
+    position: relative;
+    left: 40%;
+
+
+}
+p
+{
+    position: relative;
+    width: 80px;
+
+}
