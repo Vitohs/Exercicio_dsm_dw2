@@ -1,0 +1,58 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-color: #03071e;
+}
+header
+{
+    background-color: #370617;
+    color: white;
+    text-align: center;
+    height: 10%;
+}
+h1
+{
+    position: relative;
+    top: 25%;
+}
+legend
+{
+    background-color: #f48c06;
+    text-align: center;
+}
+form
+{
+    background-color: #ffba08;
+    border: 2px solid white;
+    width: 35%;
+    height: 35%;
+    margin-left: 32%;
+    margin-top: 10%;
+}
+input
+{
+    margin-top: 15%;
+    margin-left: 3%;
+    width: 80%;
+    height: 45px;
+}
+button
+{
+    width: 15%;
+    height: 45px;
+}
+h3
+{
+    color: white;
+   text-align: center;
+   margin-top: 20%;
+}
+a
+{
+    color: white;
+}
